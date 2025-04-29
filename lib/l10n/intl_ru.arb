@@ -1,0 +1,11 @@
+{
+  "appTitle": "2048",
+  "restartButton": "Заново",
+  "bestScoreLabel": "рекорд\nочков\n{score}",
+  "bestCubeLabel": "рекорд\nкуба\n{cube}",
+  "currentScoreLabel": "текущие\nочки\n{score}",
+  "currentCubeLabel": "текущий\nкуб\n{cube}",
+  "gameOverTitle": "Игра окончена",
+  "gameOverScoreLabel": "Очки {score}",
+  "gameOverRestartButton": "Заново"
+}

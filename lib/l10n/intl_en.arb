@@ -1,0 +1,11 @@
+{
+  "appTitle": "2048",
+  "restartButton": "Restart",
+  "bestScoreLabel": "score\nrecord\n{score}",
+  "bestCubeLabel": "cube\nrecord\n{cube}",
+  "currentScoreLabel": "current\nscore\n{score}",
+  "currentCubeLabel": "current\ncube\n{cube}",
+  "gameOverTitle": "Game Over",
+  "gameOverScoreLabel": "Score {score}",
+  "gameOverRestartButton": "Restart"
+}
